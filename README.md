@@ -47,7 +47,7 @@ Currently pursuing a **Master's degree in Data Science**. My research focuses on
 #### 🌐 Full-Stack
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**chaingu-solo-project (PollHub)**](https://github.com/MostafaSwaisy/chaingu-solo-project) | Full-stack polling app: public poll browsing, authenticated poll creation and voting, and an admin dashboard for user/poll moderation. | JavaScript • Node • REST API |
+| [**PollHub**](https://chaingu-pullhub.netlify.app) &nbsp;·&nbsp; [source](https://github.com/MostafaSwaisy/chaingu-solo-project) | Full-stack polling app: public poll browsing, authenticated poll creation and voting, and an admin dashboard for user/poll moderation. **[Live demo →](https://chaingu-pullhub.netlify.app)** | JavaScript • Node • REST API |
 | [**digital-marketplace**](https://github.com/MostafaSwaisy/digital-marketplace) | Digital marketplace built as Laravel microservices — user, product and order services behind an API gateway, each with its own database and Sanctum auth. | Laravel • Microservices |
 | [**Classroom-evaluation-tool**](https://github.com/MostafaSwaisy/Classroom-evaluation-tool) | CLI that pulls Google Classroom submissions as organized `{student-id}_{name}` files and builds per-student assignment tracking reports with late-submission flags. Read-only scopes. | Python • Google Classroom / Drive API |
 
