@@ -2,9 +2,9 @@
 
 ## Full-Stack Developer | Team Leader | Educator | Data Science Researcher
 
-I'm a Team Leader at **JellyNode Company** and Teaching Assistant at **UCAS** (University College of Applied Sciences), Gaza, Palestine. I specialize in building scalable web applications while leading development teams across AI programming, cybersecurity, and web development projects.
+I'm a Team Leader at **JellyNode Company** and Teaching Assistant at **UCAS** (University College of Applied Sciences), Gaza, Palestine. I build and lead scalable web applications, and I teach the same stack I ship.
 
-Currently pursuing a **Master's degree in Data Science** with research focused on evaluating security vulnerabilities in LLM-generated code.
+Currently pursuing a **Master's degree in Data Science**. My research focuses on **evaluating security vulnerabilities in LLM-generated code** — which is also the thread running through most of the projects below.
 
 ---
 
@@ -12,39 +12,68 @@ Currently pursuing a **Master's degree in Data Science** with research focused o
 
 **Backend:** Laravel • PHP • MySQL • REST APIs • Node.js
 
-**Frontend:** JavaScript • Vue.js • HTML5 • CSS3 • Tailwind CSS
+**Frontend:** JavaScript • TypeScript • Vue.js • React • HTML5 • CSS3 • Tailwind CSS
 
-**Tools & Practices:** Git • GitHub • CI/CD • Agile • TDD
+**Data / ML:** Python • scikit-learn • NumPy-free neural nets • Jupyter • OpenCV
 
-**Exploring:** Python • Machine Learning • Code Security Analysis
+**Tools & Practices:** Git • GitHub • CI/CD • Docker • Agile • TDD • Model Context Protocol (MCP)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostafaSwaisy&show_icons=true&count_private=true&hide_border=true" alt="Mostafa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSwaisy&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+#### 🤖 AI & Security
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**cnn_letters_pythonBased**](https://github.com/MostafaSwaisy/cnn_letters_pythonBased) | A 62-class character-recognition CNN built **from scratch in pure Python** — convolution, pooling, dense layers and backprop all by hand, no NumPy/TensorFlow/PyTorch. Includes a HOG feature branch and a word-segmentation reader. | Python (no ML libs) • Pillow |
+| [**PC_HARDWARE-Store**](https://github.com/MostafaSwaisy/PC_HARDWARE-Store) | Multi-tenant SaaS for PC hardware stores: AI shopping assistant, build-compatibility checker, inventory analytics and RAG-based support, one isolated database per tenant. | Laravel • Vue • TypeScript |
+| **swaed_belal** *(private)* | Management platform for a Quran-memorization academy — desktop admin PWA plus a Firebase backend (Firestore, Auth, Storage, security rules). | React 19 • TypeScript • Vite • Firebase |
+
+#### 🧰 Developer Tools / MCP
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**notion-mcp-server**](https://github.com/MostafaSwaisy/notion-mcp-server) | Model Context Protocol server for Notion — lets AI assistants read, create and update pages, search a workspace, and expose Notion content as MCP resources. | TypeScript • MCP |
+| [**github_mcp_server**](https://github.com/MostafaSwaisy/github_mcp_server) | MCP server for GitHub — push, pull and manage repositories from MCP-compatible IDEs, with Docker deployment and health monitoring. | Node.js • Docker • MCP |
+
+#### 🌐 Full-Stack
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**chaingu-solo-project (PollHub)**](https://github.com/MostafaSwaisy/chaingu-solo-project) | Full-stack polling app: public poll browsing, authenticated poll creation and voting, and an admin dashboard for user/poll moderation. | JavaScript • Node • REST API |
+| [**digital-marketplace**](https://github.com/MostafaSwaisy/digital-marketplace) | Digital marketplace built as Laravel microservices — user, product and order services behind an API gateway, each with its own database and Sanctum auth. | Laravel • Microservices |
+| [**Classroom-evaluation-tool**](https://github.com/MostafaSwaisy/Classroom-evaluation-tool) | CLI that pulls Google Classroom submissions as organized `{student-id}_{name}` files and builds per-student assignment tracking reports with late-submission flags. Read-only scopes. | Python • Google Classroom / Drive API |
+
+#### 📈 Data Science / ML
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**mnist-svm-cnn**](https://github.com/MostafaSwaisy/mnist-svm-cnn) | SVM and CNN implementations for handwritten-digit recognition on MNIST, compared side by side. | Python • Jupyter |
+| [**studentHabitsVsAcademicPerformance**](https://github.com/MostafaSwaisy/studentHabitsVsAcademicPerformance) | Random Forest model predicting student academic performance from study-habit inputs, with an interactive CLI and feature-importance visualization. | Python • scikit-learn |
+| [**Real-Time HSV Color Detection**](https://github.com/MostafaSwaisy/Real_Time_Color_Detection_in_HSV_using_Webcam_in_Google_Colab) | Real-time HSV colour detection through a laptop webcam in Google Colab, with accuracy scoring from user feedback. | Python • OpenCV |
 
 ---
 
 ### 🔭 What I'm Working On
 
 - Leading development projects at JellyNode Company
-- Teaching Laravel and web development to CS students
+- Teaching Laravel and full-stack development to CS students
 - Researching the security evaluation of LLM-generated code
-- Creating educational content for software engineering courses
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Classroom-evaluation-tool**](https://github.com/MostafaSwaisy/Classroom-evaluation-tool) | CLI that pulls Google Classroom submissions with organized `{student-id}_{name}` filenames and builds a per-student × per-assignment tracking report with late-submission flags. Read-only Classroom/Drive scopes. | Python • Google Classroom API • Google Drive API |
-| [**cnn_letters_pythonBased**](https://github.com/MostafaSwaisy/cnn_letters_pythonBased) | A convolutional neural network for 62-class character recognition written from scratch in pure Python — convolution, pooling, dense layers, backprop and gradient descent all by hand, no NumPy/TensorFlow/PyTorch. Includes a HOG feature branch and word-segmentation reader. | Python (no ML libraries) • Pillow |
-| [**qa-portfolio**](https://github.com/MostafaSwaisy/qa-portfolio) | Software QA portfolio covering manual testing, API testing (Postman), UI automation (Selenium + Java + TestNG), and performance testing (JMeter), with FinTech-style scenarios. | Java • Selenium • TestNG • Postman • JMeter |
-| **swaed_belal** *(private)* | Management platform for a Quran-memorization academy — desktop admin PWA plus a Firebase backend (Firestore, Auth, Storage, security rules). Mobile apps planned as a future workstream. | React 19 • TypeScript • Vite • Tailwind • Firebase |
+- Building MCP servers and AI-assisted developer tooling
 
 ---
 
 ### 🎯 Interests
 
+- Code Security & Vulnerability Analysis in AI-generated code
+- AI-Assisted Development and agent tooling
 - Software Engineering Education
-- Code Security & Vulnerability Analysis
-- AI-Assisted Development
 - Open Source Contributions
 
 ---
@@ -53,7 +82,6 @@ Currently pursuing a **Master's degree in Data Science** with research focused o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://ps.linkedin.com/in/mostafa-swaisy-104240161)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:motafa28king@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
 
