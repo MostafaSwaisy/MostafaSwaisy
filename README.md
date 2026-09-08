@@ -29,6 +29,17 @@ Currently pursuing a **Master's degree in Data Science** with research focused o
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Classroom-evaluation-tool**](https://github.com/MostafaSwaisy/Classroom-evaluation-tool) | CLI that pulls Google Classroom submissions with organized `{student-id}_{name}` filenames and builds a per-student × per-assignment tracking report with late-submission flags. Read-only Classroom/Drive scopes. | Python • Google Classroom API • Google Drive API |
+| [**cnn_letters_pythonBased**](https://github.com/MostafaSwaisy/cnn_letters_pythonBased) | A convolutional neural network for 62-class character recognition written from scratch in pure Python — convolution, pooling, dense layers, backprop and gradient descent all by hand, no NumPy/TensorFlow/PyTorch. Includes a HOG feature branch and word-segmentation reader. | Python (no ML libraries) • Pillow |
+| [**qa-portfolio**](https://github.com/MostafaSwaisy/qa-portfolio) | Software QA portfolio covering manual testing, API testing (Postman), UI automation (Selenium + Java + TestNG), and performance testing (JMeter), with FinTech-style scenarios. | Java • Selenium • TestNG • Postman • JMeter |
+| **swaed_belal** *(private)* | Management platform for a Quran-memorization academy — desktop admin PWA plus a Firebase backend (Firestore, Auth, Storage, security rules). Mobile apps planned as a future workstream. | React 19 • TypeScript • Vite • Tailwind • Firebase |
+
+---
+
 ### 🎯 Interests
 
 - Software Engineering Education
