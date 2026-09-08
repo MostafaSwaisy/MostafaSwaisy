@@ -18,16 +18,6 @@ Currently pursuing a **Master's degree in Data Science**. My research focuses on
 
 **Tools & Practices:** Git • GitHub • CI/CD • Docker • Agile • TDD • Model Context Protocol (MCP)
 
----
-
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafaswaisy)](https://github.com/anuraghazra/github-readme-stats)<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostafaSwaisy&show_icons=true&count_private=true&hide_border=true" alt="Mostafa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSwaisy&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 #### 🤖 AI & Security
